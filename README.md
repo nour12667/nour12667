@@ -1,4 +1,4 @@
-# Hi there, I'm Noureldeen 👋 🇵🇸
+# Hi there, I'm Noureldeen 
 
 [![GitHub followers](https://img.shields.io/github/followers/nour12667?logo=github&style=for-the-badge)](https://github.com/nour12667)
 [![Profile Views](https://komarev.com/ghpvc/?username=nour12667&style=for-the-badge&color=blue)](https://github.com/nour12667)
