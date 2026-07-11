@@ -93,7 +93,7 @@ I'm currently combining everything from the projects above — data structures, 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nour12667&hide_border=true&background=0D1117&ring=00C4FF&fire=00C4FF&currStreakLabel=00C4FF" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=nour12667&hide_border=true&background=0D1117&ring=00C4FF&fire=00C4FF&currStreakLabel=00C4FF" alt="GitHub Streak"/>
 </div>
 
 <br/>
