@@ -85,19 +85,6 @@ I'm currently combining everything from the projects above — data structures, 
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img alt="Noureldeen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nour12667&show_icons=true&hide_border=true&title_color=00C4FF&icon_color=00C4FF&bg_color=0d1117&text_color=ffffff" height="165"/>
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nour12667&layout=compact&hide_border=true&title_color=00C4FF&bg_color=0d1117&text_color=ffffff" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=nour12667&hide_border=true&background=0D1117&ring=00C4FF&fire=00C4FF&currStreakLabel=00C4FF" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
 <div align="center">
 
 *"Code is like humor. When you have to explain it, it's bad." — Cory House*
